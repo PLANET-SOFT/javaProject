@@ -10,6 +10,8 @@ public class Main {
            System.out.println("this the second modif and commit");
            System.out.println("the third commit");
            System.out.println("this the fourth modif and commit");
+           System.out.println("this the 7 modif and commit");
+
 
 	}
 
